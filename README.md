@@ -4,7 +4,7 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<b>Step 1.</b> Clone this repository: (https://github.com/Slayer-Regen/TF-OD.git)
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
